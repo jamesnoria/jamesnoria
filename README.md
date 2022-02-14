@@ -1,13 +1,13 @@
 # Hi amigo :wave:
-Welcome to my Github profile. I'm James Noria, a system engineer student but with a lot of passion for programming languages such as Python and Javascript, where I've been developing some projects to improve my skills. Also I'm someone who really like to be always learning and reach goals.
+Welcome to my Github profile. I'm James Noria, a system engineer student but with a lot of passion for programming languages such as Python and Javascript, where I've been developing some projects to improve my skills. Also I'm someone who really like to be always learning and reach goals. Focus: BACK-END.
 
 👩‍💻 I'm currently working on **TS migrations.**
 
-🧠 I'm currently learning **UI & UX.**
+🧠 I'm currently learning **AWS**
 
 👯‍♀️ I'm looking to collaborate on **Backend Projects.**
 
-🤔 I'm looking for help with **AWS.**
+🤔 I'm looking for help with **Azure**
 
 💬 Ask me about **Python3.**
 
