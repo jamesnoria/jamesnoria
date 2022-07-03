@@ -1,5 +1,5 @@
 # Hi amigo :wave:
-Welcome to my Github profile. I'm James Noria, a system engineer student but with a lot of passion for programming languages such as Python and Javascript, where I've been developing some projects to improve my skills.
+Welcome to my Github profile. I'm James Noria, a software developer with an special focus on Backend services.
 
 (Some of my projects are on [Gitlab](https://gitlab.com/jamesnoria))
 
